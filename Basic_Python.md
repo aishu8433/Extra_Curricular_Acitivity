@@ -56,17 +56,25 @@ print(3+4+5)
 #Collection Data Type
 
 lst = [12, 3.2, True, "Hii"]
+
 dict = {1:2 , col:[red,pink,yellow]}
+
 set = {2, 1.5, "hi"}
+
 tuple = (1, 2.5, "hii")
 
 #operators
 
 Arithmetic + - / * % **
+
 Relational > < >= == != <=
+
 Logical and or not
+
 Assignment = += -= *= /= 
+
 Membership  in, not in e.g print(12 in lst)  
+
 Identity is, not is 
 
 print(13 not in lst)
